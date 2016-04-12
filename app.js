@@ -1,4 +1,4 @@
-var weatherapp = angular.module('weatherApp',['ngRoute', 'ngResource']);
+var weatherApp = angular.module('weatherApp',['ngRoute', 'ngResource']);
 
 
 
